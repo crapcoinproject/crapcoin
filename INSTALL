@@ -1,0 +1,9 @@
+Building Crapcoin
+
+See doc/readme-qt.rst for instructions on building crapcoin-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Crapcoin.
+
+See doc/build-*.txt for instructions on building crapcoin,
+the intended-for-services, no-graphical-interface, reference
+implementation of Crapcoin.
